@@ -94,9 +94,25 @@ Support multiple PDFs + persistent indexes
 
 Screenshots
 
-<img src="Pictures/upload.png" alt="initial screen" width="500">
-<img src="Pictures/first_example.png" alt="upload and process pdf" width="500">
-<img src="Pictures/Second_example.png" alt="recieve answer from AI" width="500">
+<div align="center">
+  <h3>Application Walkthrough</h3>
+  <table>
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <b>1. Initial Screen</b><br><br>
+        <img src="Pictures/upload.png" alt="initial screen" width="100%">
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b>2. Upload & Process PDF</b><br><br>
+        <img src="Pictures/first_example.png" alt="upload and process pdf" width="100%">
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b>3. Receive AI Answer</b><br><br>
+        <img src="Pictures/second_example.png" alt="receive answer from AI" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 License
