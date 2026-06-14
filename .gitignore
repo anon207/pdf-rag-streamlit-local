@@ -1,0 +1,16 @@
+pycache/ *.py[cod] *.pyd *.egg-info/ dist/ build/
+
+Virtual env
+.venv/ venv/ env/
+
+VS Code
+.vscode/
+
+Streamlit
+.streamlit/secrets.toml
+
+OS junk
+.DS_Store Thumbs.db
+
+Local artifacts
+*.log
