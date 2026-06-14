@@ -1,4 +1,4 @@
-pycache/ *.py[cod] *.pyd *.egg-info/ dist/ build/
+pycache/ *.pyc *.py[cod] *.pyd *.egg-info/ dist/ build/
 
 Virtual env
 .venv/ venv/ env/
