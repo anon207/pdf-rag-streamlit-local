@@ -94,11 +94,10 @@ Support multiple PDFs + persistent indexes
 
 Screenshots
 
-Pictures/upload.png
-Pictures/first_example.png
-Pictures/Second_example.png
+<img src="Pictures/upload.png" alt="initial screen" width="500">
+<img src="Pictures/first_example.png" alt="upload and process pdf" width="500">
+<img src="Pictures/Second_example.png" alt="recieve answer from AI" width="500">
 
 
 License
 MIT
-```
